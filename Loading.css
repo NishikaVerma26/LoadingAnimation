@@ -55,7 +55,11 @@ body{
         -webkit-transform:translate(-40px,0px);transform:translate(-40px,0px)
     }}
 .pacman{
-    position:absolute;left:0;top:0;height:60px;width:60px
+    position:absolute;
+    left:0;
+    top:0;
+    height:60px;
+    width:60px
 }
 .pacman .eye{
     position:absolute;
