@@ -1,1 +1,1 @@
-# LoadingAnimation
+# LoadingPacManAnimation
